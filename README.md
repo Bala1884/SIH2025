@@ -1,6 +1,5 @@
 # Smart teacher Hub
 
-A centralized **mobile + web** application to catalogue, verify, and showcase student achievements, activities, and academic records throughout their college life. The Smart Student Hub helps students maintain a verified, shareable portfolio while enabling institutions to generate reports and streamline accreditation (NAAC, NIRF, AICTE) and administrative tasks.
 
 ---
 
